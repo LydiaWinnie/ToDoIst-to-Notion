@@ -7,7 +7,7 @@ import todoist
 TODOIST_API_KEY =24b4b3c643eb88c309d8d9be1e024b464f5cba9d
 TODOIST_label_id =2168717601
 NOTION_API_KEY = secret_AFDPWr0u4UGRZwbZ4PtUbbDMzf7NOKiQdBpzaUBMIHI
-database_id =619ad07ab6024d05b65b1b9649147a26
+database_id = 619ad07ab6024d05b65b1b9649147a26
 
 
 
